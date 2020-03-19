@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "package": "com.kt-storage.appstoreplusplus",
+  "author": "",
+  "version": "",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "",
+  "changelog": {
+    "": [
+      ""
+    ]
+  },
+  "screenshots": {
+    "": ""
+  },
+  "links": {}
+}
