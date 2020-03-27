@@ -1,4 +1,4 @@
-Package: kt-icon
+Package: com.kt-storage.icon
 Version: 1.0.3
 Section: Admin
 Essential: yes
@@ -11,16 +11,16 @@ Depiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
 SileoDepiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
 Filename: ./debs/Admin(1.0.3).deb
-Size: 9038
-MD5sum: 068b89fa4459174e8e2c8267e69ac10f
-SHA1: 5fc13483a1700304bd8f77b3cf631a70add311f6
-SHA256: 23a1989ce54e80fdeb4149b1a22003ea5073d68d1f3a52fff84e207960240c29
+Size: 9042
+MD5sum: d28397db60fc9f982a4e59da18023781
+SHA1: 5df1a543adcba5ea7992c52b780f1cc27e3f4c3a
+SHA256: bee9abbd5797175f5eac53dac14983dac687bc1762b2b4898d8c5a513051e4ed
 
 Package: com.kt-storage.a-font
 Name: A-Font
 Version: 1.5.1
 Author: Baw Appie <pp121324@gmail.com>
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), kt-icon
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.kt-storage.icon
 Installed-Size: 2342
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -29,16 +29,16 @@ Depiction: https://kt-stores.github.io/debs/A-fonts/?p=info
 SileoDepiction: https://kt-stores.github.io/debs/A-fonts/?p=info
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
 Filename: ./debs/A-fonts(1.5.1).deb
-Size: 834392
-MD5sum: 77bb1111847b2bc5abeae1c1e2f19080
-SHA1: 5d5f1faffda36a110e9ec439cfd70eda8f386a1d
-SHA256: ac6d76b7a9b71d5cd013508da960981ed0da838ae933a7e5426c978f92609c0a
+Size: 834398
+MD5sum: 5eb7006f454aa61744c724e5b890de52
+SHA1: fc2e04d8fc00ad30919a9e48de68325af05c3c5c
+SHA256: 3a4222d659cbbf756d58c3cbaeaf17aadc1276ebb86379e31215435fba591c96
 
 Name: Appaze 2
 Package: com.kt-storage.appaze2
 Version: 1.1k
 Author: AnthoPak <anthopakdev@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5), kt-icon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5), com.kt-storage.icon
 Installed-Size: 1409
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -47,8 +47,8 @@ Depiction: https://kt-stores.github.io/debs/Appaze2/?p=info
 SileoDepiction: https://kt-stores.github.io/debs/Appaze2/?p=info
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
 Filename: ./debs/Appaze2(1.1k).deb
-Size: 842216
-MD5sum: 22310ffbb652e078a2227fbdfee35e14
-SHA1: 51e9a73e74a7b7948a8ef492240d2cd7e440a99d
-SHA256: a08093178074440918c72c842d6e1a6d118b73e63c39195ae186e630001f6c03
+Size: 842218
+MD5sum: 3742a61c5310a433c62b60a6b69fa13d
+SHA1: 1cd2cd1015cff06cd8c498cf6245b5c5381c870a
+SHA256: d3596e84e6fdbb7d745ba71699ac70f5f3a4f7d39f80f9b81b0e5b2ac8d8511a
 
