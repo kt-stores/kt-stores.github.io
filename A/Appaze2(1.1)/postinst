@@ -1,0 +1,10 @@
+#!/bin/sh
+echo
+echo "-----------------------------------"
+echo "Cảm ơn bạn đã sử dụng tinh chỉnh!"
+echo "chúc bạn một ngày tốt lành"
+echo "Kim Trọng ❤️"
+echo
+echo "--- 1/4-2020 ---"
+echo
+exit 0

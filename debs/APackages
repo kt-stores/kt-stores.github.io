@@ -1,0 +1,54 @@
+Package: kt-icon
+Version: 1.0.3
+Section: Admin
+Essential: yes
+Maintainer: KT Storage
+Installed-Size: 230
+Architecture: iphoneos-arm
+Name: KT Stores (icon_repo)
+Author: Kim Trọng
+Depiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/Admin(1.0.3).deb
+Size: 9038
+MD5sum: 068b89fa4459174e8e2c8267e69ac10f
+SHA1: 5fc13483a1700304bd8f77b3cf631a70add311f6
+SHA256: 23a1989ce54e80fdeb4149b1a22003ea5073d68d1f3a52fff84e207960240c29
+
+Package: com.kt-storage.a-font
+Name: A-Font
+Version: 1.5.1
+Author: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), kt-icon
+Installed-Size: 2342
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Depiction: https://kt-stores.github.io/debs/A-fonts/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/A-fonts/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/A-fonts(1.5.1).deb
+Size: 834392
+MD5sum: 77bb1111847b2bc5abeae1c1e2f19080
+SHA1: 5d5f1faffda36a110e9ec439cfd70eda8f386a1d
+SHA256: ac6d76b7a9b71d5cd013508da960981ed0da838ae933a7e5426c978f92609c0a
+
+Name: Appaze 2
+Package: com.kt-storage.appaze2
+Version: 1.1k
+Author: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5), kt-icon
+Installed-Size: 1409
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Depiction: https://kt-stores.github.io/debs/Appaze2/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/Appaze2/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/Appaze2(1.1k).deb
+Size: 842216
+MD5sum: 22310ffbb652e078a2227fbdfee35e14
+SHA1: 51e9a73e74a7b7948a8ef492240d2cd7e440a99d
+SHA256: a08093178074440918c72c842d6e1a6d118b73e63c39195ae186e630001f6c03
+
