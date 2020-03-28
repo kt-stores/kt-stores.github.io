@@ -1,0 +1,10 @@
+Author: TTJB Team <admin@thuthuatjb.com>
+Maintainer: KT Storage
+Name: HideJB™
+Package: com.kt-storage.hidejb
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader, com.kt-storage.icon
+Section: Tweaks
+Installed-Size: 426
+Version: 2.1.1
+Architecture: iphoneos-arm
+

@@ -1,0 +1,11 @@
+Package: com.kt-storage.jellyfish
+Name: Jellyfish™
+Version: 1.3.3
+Author: Justin Proulx and Ayden Panhuyzen
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0), com.kt-storage.icon
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom
+Installed-Size: 645
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+

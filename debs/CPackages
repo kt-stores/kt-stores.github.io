@@ -1,0 +1,320 @@
+Package: com.kt-storage.icon
+Version: 1.0.3
+Section: Admin
+Essential: yes
+Maintainer: KT Storage
+Installed-Size: 230
+Architecture: iphoneos-arm
+Name: KT Stores (icon_repo)
+Author: Kim Trọng
+Description: gói icon của repo.
+Depiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/Admin(icon)/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/Admin(1.0.3).deb
+Size: 9042
+MD5sum: d28397db60fc9f982a4e59da18023781
+SHA1: 5df1a543adcba5ea7992c52b780f1cc27e3f4c3a
+SHA256: bee9abbd5797175f5eac53dac14983dac687bc1762b2b4898d8c5a513051e4ed
+
+Name: AppCheats
+Version: 2.5
+Package: com.kt-storage.appcheats
+Section: Tweaks
+Maintainer: KT Storage
+Depends: mobilesubstrate, com.kt-storage.icon
+Architecture: iphoneos-arm
+Installed-Size: 444
+Author: fahlnbg
+Description: Tinh chỉnh nâng cao cho một số ứng dụng.
+Depiction: https://kt-stores.github.io/debs/appcheats/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/appcheats/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/appcheats(2.5).deb
+Size: 70264
+MD5sum: 8170fee852b9776f24b74c572303bbca
+SHA1: 7eaec0c09e39ebd13971ead9d6f707a376ae5f31
+SHA256: 8d7def265123035bd707a3af903551b99f2a46763c706d700edfdd55ee0e9227
+
+
+Package: applist
+Version: 1.5.15~beta1
+Section: System
+Maintainer: KT Storage
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Architecture: iphoneos-arm
+Installed-Size: 780
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Description: Hiển thị gói cài đặt trong setting.
+Depiction: https://kt-stores.github.io/debs/applist/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/applist/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/applist(1.5.15~beta1).deb
+Size: 186332
+MD5sum: 9a3e86be1503efcb28bdb38092480f9b
+SHA1: 8991417c8582681182001b4c6c777868470f82f3
+SHA256: e881819ed5eb7b1d4209a2d1cc6763709c209eccf9f84bbcee75e260b3e6f3c9
+
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.6~beta) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.14
+Installed-Size: 600
+Description: Hiển thị gói cài đặt trong setting.
+Depiction: https://kt-stores.github.io/debs/applist/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/applist/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/applist(1.5.14).deb
+Size: 146588
+MD5sum: 4213c1ef5863145e3c21e755ad8b5b40
+SHA1: a5c4ef9a24e422c84957e30936d7a0a8defeb822
+SHA256: 76c09e0bcefd1cc906e033d8fcd9da2de7c10fbfa7aef28f505f279910a081a7
+
+Name: AppStore++
+Version: 0.9.8
+Package: com.kt-storage.appstoreplusplus
+Priority: optional
+Section: Tweaks
+Maintainer: KT Storage
+Depends: firmware (>= 11.0), mobilesubstrate, com.kt-storage.icon
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Author: CokePokes
+Installed-Size: 1308
+Description: Hỗ trợ nâng & hạ cấp ứng dụng trong AppStore.
+Depiction: https://kt-stores.github.io/debs/appstore++/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/appstore++/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/appstore++(0.9.8).deb
+Size: 1329050
+MD5sum: 91fd36c305ac1c3bca5c56cd2c80a2a9
+SHA1: f23384c4c347f90f5735db11e8b31ff6d6702af4
+SHA256: ebec90abb0d5e8b0b2f72b9c125cebaf57cf18f5647ff6d2a0de519efc2a289a
+
+Name: AppSync Unified
+Version: 70.0
+Package: com.kt-storage.appsyncunified
+Section: Tweaks
+Maintainer: KT Storage
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1), com.kt-storage.icon
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Installed-Size: 64
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Description: Hỗ trợ cài iPA trực tiếp không cần chứng chỉ
+Depiction: https://kt-stores.github.io/debs/appsync/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/appsync/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/appsync(70.0).deb
+Size: 53690
+MD5sum: 253c4d4ddad5a338bbaed31c6fef3c92
+SHA1: 478b53250586761e67aed600ef45022f4034e376
+SHA256: 15e85174fb5ed93366032b0a478c68f1004087c070edf48bddb1c85322080f42
+
+Name: AdBlock for YouTube
+Version: 1.0.7
+Package: com.kt-storage.adblockforyoutube
+Author: Majd Alfhaily
+Depends: firmware (>= 8.0), com.kt-storage.icon
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Installed-Size: 234
+Description: Hỗ trợ chặn quảng cáo cho youtube.
+Depiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/adblockforyoutube(1.0.7).deb
+Size: 46724
+MD5sum: 113726e774846a60c8b217876f8fc9e8
+SHA1: 7e9fc0a1aab7dc6e0fac7149b09fecba0766796f
+SHA256: 54ca2d19da1e955a93a9a73d5f80ddb2bf7812eaac09bbc14ba620f2e052a2e0
+
+Name: AdBlock ++
+Version: 1.2-1
+Package: com.kt-storage.adblockplus
+Author: kim Trong
+Installed-Size: 258
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Description: hỗ trợ chặn quảng cáo cho App++
+Depiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/adblockplus(1.2-1).deb
+Size: 13844
+MD5sum: 97c7bd95dc6f9a4be915c667d7a22efd
+SHA1: fc9b22d0d1c7e638653a6dc95fb420aa73249a2c
+SHA256: f4f771449c5a8fa25ac6d10c36203b50d0b8cc74529e9a4c39fbd560ba7712fa
+
+Name: A-Font
+Version: 1.5.1
+Package: com.kt-storage.a-font
+Author: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.kt-storage.icon
+Installed-Size: 2342
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Description: thay đổi fonts chữ tuỳ thích
+Depiction: https://kt-stores.github.io/debs/A-fonts/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/A-fonts/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/A-fonts(1.5.1).deb
+Size: 834398
+MD5sum: 5eb7006f454aa61744c724e5b890de52
+SHA1: fc2e04d8fc00ad30919a9e48de68325af05c3c5c
+SHA256: 3a4222d659cbbf756d58c3cbaeaf17aadc1276ebb86379e31215435fba591c96
+
+Name: AdGuard Pro Hack
+Version: 0.0.1-2
+Package: com.kt-storage.adgpro
+Author: md.furman
+Depends: mobilesubstrate, com.kt-storage.icon
+Installed-Size: 114
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Description: Hỗ trợ crack App Adguard.
+Depiction: https://kt-stores.github.io/debs/AdGuard/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/AdGuard/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/AdGuard(0.0.1-2).deb
+Size: 5244
+MD5sum: e3b3b04c883260668a24b8926ffadf1a
+SHA1: 6b0af37a1b4077bc781c6612eb5b0c793eaa599e
+SHA256: 306f909c1a8e3d8ff4e8c80fd746f4940535191d4f9efaced7a1968dda418f51
+
+Name: Appaze 2
+Package: com.kt-storage.appaze2
+Version: 1.1k
+Author: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5), com.kt-storage.icon
+Installed-Size: 1409
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Description: Tinh chỉnh nâng cao cho từng ứng dụng đã tải về
+Depiction: https://kt-stores.github.io/debs/Appaze2/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/Appaze2/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/Appaze2(1.1k).deb
+Size: 842218
+MD5sum: 3742a61c5310a433c62b60a6b69fa13d
+SHA1: 1cd2cd1015cff06cd8c498cf6245b5c5381c870a
+SHA256: d3596e84e6fdbb7d745ba71699ac70f5f3a4f7d39f80f9b81b0e5b2ac8d8511a
+
+Name: Bazzi 2
+Version: 2.0.8
+Package: com.kt-storage.bazzi2
+Section: Tweaks
+Maintainer: KT Storage
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.kt-storage.icon
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2
+Architecture: iphoneos-arm
+Installed-Size: 87
+Author: Blake Boxberger
+Description: Giao diện âm lượng mới cho ios 12 & 13.
+Depiction: https://kt-stores.github.io/debs/bazzi2/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/bazzi2/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/bazzi2(2.0.8).deb
+Size: 86832
+MD5sum: 4a9fe25640b2c970df2df9a1a13aae13
+SHA1: f52948e8f6857f17b8efb94f189bc5ec13b77e9d
+SHA256: 6002ac0096b34f4b098c1c7e67f365ee78f416a55cf5812636461062d2901aa3
+
+Name: CallBar XS (iOS 12 & 13)
+Version: 2.3-75
+Package: com.kt-storage.callbarxs
+Section: Tweaks
+Maintainer: KT Storage
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), net.limneos.simpleactivationactions, com.pulandres.autoanswerx, com.kt-storage.icon
+Conflicts: com.pulandres.callbarxs
+Replaces: net.limneos.callbarxs, com.pulandres.callbarxs
+Architecture: iphoneos-arm
+Installed-Size: 410
+Author: Elias Limneos
+Description: Giao diện cuộc gọi mới cho ios 12 & 13.
+Depiction: https://kt-stores.github.io/debs/callbarxs/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/callbarxs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/callbarxs(2.3-75).deb
+Size: 410098
+MD5sum: 43a4dfcbc9fa3272d6765220fee79c4e
+SHA1: f4c6675d51466d4ab662e13be3a7d58e6d105979
+SHA256: 262dae8079ea0e5082e1c1e8c24c619669bce1f44c56ce9aec2ac1738e4c415c
+
+Name: CCModules Pro
+Version: 1.1.1k
+Package: com.kt-storage.ccmodulespro
+Author: jailbreak365 <jailbreak365@mail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1), com.kt-storage.icon
+Installed-Size: 1440
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Description: tinh chỉnh nâng cao cho controlcenter (CC).
+Depiction: https://kt-stores.github.io/debs/ccmodulespro/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/ccmodulespro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/ccmodulespro(1.1.1k).deb
+Size: 337066
+MD5sum: e6bef5cdd5964ec82fe3b15ded4b8f00
+SHA1: bd50fddbfd2099e6d646684bd4b09305f84d9b23
+SHA256: 252606024aa9dc1ba6019a868ab9540d66f8a8185063ad2dfde42e2cb6dc72b8
+
+Name: Cercube for YouTube
+Version: 5.1.10k
+Package: com.kt-storage.cercube
+Author: Majd Alfhaily
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.kt-storage.adblockplus, com.kt-storage.icon
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Installed-Size: 33587
+Description: tinh chỉnh nâng cao cho Ứng dụng Youtube.
+Depiction: https://kt-stores.github.io/debs/cercube/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/cercube/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/cercube(5.1.10k).deb
+Size: 11607372
+MD5sum: b7198a21dc6391719b5804848f933500
+SHA1: 26ba52109d923b2ab80ffdaf441e80ccbb87cd10
+SHA256: 19b260ec279b04ee6d160a82c52e70678eb38159707e2a63afa9f0ed21ba73e6
+
+Package: com.kt-storage.cydown
+Version: 7.0.6
+Section: Ứng dụng
+Maintainer: KT Storage
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader, com.kt-storage.icon
+Architecture: iphoneos-arm
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Installed-Size: 4186
+Description: tinh chỉnh nâng cao cho Cydia.
+Depiction: https://kt-stores.github.io/debs/cydown/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/cydown/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/cydown(7.0.6).deb
+Size: 4061468
+MD5sum: 8cdc1a7a6374d7cf853ef16a7c03e673
+SHA1: ebd5cc39fe73270cce9583c3956b92744c05f8fb
+SHA256: f41033c5447c8b4618ca8a187fec884af8a8d2ea3b0aac52c9aa0e218bfa0a78

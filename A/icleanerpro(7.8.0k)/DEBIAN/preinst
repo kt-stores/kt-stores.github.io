@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Cleanup
+killall -m '^iOS[0-9]+_iCleaner$' 2>/dev/null
+rm -rf /{Applications,var/stash/appsstash}/iCleaner.app /var/root/Library/Caches/{org.altervista.exilecom.icleaner,com.exile90.icleanerpro}
+rm -f /usr/bin/{iCleaner,icleaner}
+
+# Conditional respring/reboot
+declare -a cydia
+cydia=($CYDIA)
+
+if [[ $1 == install || $1 == upgrade || $1 == reinstall ]]; then
+    if [ -f /Library/MobileSubstrate/MobileSubstrate.dylib ]; then
+        # Respring if the user has Cydia Substrate installed
+        if [[ ${CYDIA+@} ]]; then
+            eval "echo 'finish:restart' >&${cydia[0]}"
+        else
+            echo "Please respring your device."
+        fi
+    fi
+fi
+
+exit 0

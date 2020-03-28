@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Run UICache..."
+uicache
+echo "Kim Trọng"
+exit 0

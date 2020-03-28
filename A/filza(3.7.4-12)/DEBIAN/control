@@ -1,0 +1,11 @@
+Package: com.kt-storage.filza64bit
+Version: 3.7.4-12
+Section: Ứng dụng
+Maintainer: KT Storage
+Depends: zip, unzip, gzip, unrar, p7zip, com.kt-storage.icon
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Installed-Size: 12288
+Name: Filza File Manager™
+Author: TIGI Software
+

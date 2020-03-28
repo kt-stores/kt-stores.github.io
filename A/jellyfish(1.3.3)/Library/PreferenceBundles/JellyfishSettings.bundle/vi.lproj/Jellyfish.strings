@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3rd Party Tweak Colors</key>
+	<string>Các chỉnh sửa khác để thay đổi màu sắc</string>
+	<key>Alignment</key>
+	<string>Địa điểm</string>
+	<key>Background</key>
+	<string>Bối cảnh</string>
+	<key>Center</key>
+	<string>Ở giữa</string>
+	<key>Color Options</key>
+	<string>Cài đặt màu</string>
+	<key>Color Time</key>
+	<string>Thời gian nhuộm</string>
+	<key>Custom Color</key>
+	<string>Màu tùy chỉnh</string>
+	<key>Custom Date Format</key>
+	<string>Định dạng ngày</string>
+	<key>Date Options</key>
+	<string>Cài đặt ngày</string>
+	<key>Disable Saturation Limit</key>
+	<string>Vô hiệu hóa giới hạn</string>
+	<key>Disable the saturation limit to take more vivid colors.</key>
+	<string>Tắt giới hạn bão hòa để có được màu sáng hơn.</string>
+	<key>Enabled</key>
+	<string>Kích hoạt</string>
+	<key>Fun Sized</key>
+	<string>Rất mỏng</string>
+	<key>Left</key>
+	<string>Bên trái</string>
+	<key>Lighter</key>
+	<string>Bên phải</string>
+	<key>Miscellaneous</key>
+	<string>Cài đặt nâng cao</string>
+	<key>Mod Thicc</key>
+	<string>Rất nhờn</string>
+	<key>Normal</key>
+	<string>Trung bình</string>
+	<key>Override Dynamic Color</key>
+	<string>Ghi đè màu</string>
+	<key>Override Saturation Threshold</key>
+	<string>Đặt giới hạn của bạn</string>
+	<key>Primary</key>
+	<string>Tiểu học</string>
+	<key>Right</key>
+	<string>Bên phải</string>
+	<key>Saturation Threshold</key>
+	<string>Giới hạn bão hòa</string>
+	<key>Secondary</key>
+	<string>Trung học</string>
+	<key>Show Incompatibility Warnings</key>
+	<string>Cảnh báo không tương thích</string>
+	<key>Show Weather</key>
+	<string>Hiển thị thời tiết</string>
+	<key>Text Size (%)</key>
+	<string>Kích thước văn bản (%)</string>
+	<key>Text Thiccness</key>
+	<string>Độ dày văn bản</string>
+	<key>Thicc</key>
+	<string>Béo</string>
+	<key>Use 3rd Party Tweak Colors</key>
+	<string>Sử dụng các tinh chỉnh khác cho màu sắc</string>
+	<key>Use ColorFlow Colors</key>
+	<string>Sử dụng màu ColorFlow</string>
+	<key>Use Custom Date Format</key>
+	<string>Định dạng ngày tùy chỉnh</string>
+	<key>Use Music Colors</key>
+	<string>Sử dụng màu sắc của âm nhạc</string>
+	<key>Use Third-Party Tweak Colors</key>
+	<string>Sử dụng màu của bên thứ ba</string>
+	<key>Use a hex code to customize color.</key>
+	<string>Sử dụng mã màu hex để tùy chỉnh</string>
+	<key>Visit nsdateformatter.com to learn about custom date formatting.</key>
+	<string>Truy cập nsdateformatter.com để tìm định dạng bạn cần.
+---------
+Dịch bởi kim trọng ❤️</string>
+</dict>
+</plist>

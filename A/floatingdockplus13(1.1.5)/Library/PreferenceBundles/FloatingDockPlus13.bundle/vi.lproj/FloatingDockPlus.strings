@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Switcher</key>
+	<string>Trình chuyển đổi ứng dụng</string>
+	<key>Blacklist Apps...</key>
+	<string>Ứng dụng danh sách đen ...</string>
+	<key>Buy me a coffee? (Donate)</key>
+	<string>Mua cà phê cho tôi? (Quyên góp)</string>
+	<key>Control Center</key>
+	<string>Điểm kiểm soát</string>
+	<key>Custom (Using Activator)</key>
+	<string>Tùy chỉnh (Sử dụng Trình kích hoạt)</string>
+	<key>Default (Swipe Up)</key>
+	<string>Mặc định (Vuốt lên)</string>
+	<key>Disable Rotation on App Launch</key>
+	<string>Vô hiệu hóa Xoay vòng khi khởi chạy ứng dụng</string>
+	<key>Do Nothing</key>
+	<string>Không làm gì cả</string>
+	<key>Dock Color</key>
+	<string>Dock màu</string>
+	<key>Dock Gesture Options</key>
+	<string>Tùy chọn cử chỉ Dock</string>
+	<key>Dock Gestures</key>
+	<string>Cử chỉ Dock</string>
+	<key>Dock In Switcher</key>
+	<string>Dock trong Switcher</string>
+	<key>Dock Invoke Gesture</key>
+	<string>Dock gọi cử chỉ</string>
+	<key>Dock Offet</key>
+	<string>Dock Offet</string>
+	<key>Double Tap</key>
+	<string>Nhấn đúp</string>
+	<key>Enabled</key>
+	<string>Kích hoạt</string>
+	<key>Follow me on Twitter</key>
+	<string>Twitter @imkpatil
+-------</string>
+	<key>Follow me on Twitter @p2kdev</key>
+	<string>Twitter @p2kdev</string>
+	<key>Goto HomeScreen</key>
+	<string>Đi đến màn hình chính</string>
+	<key>Home Button Press</key>
+	<string>Nhấn nút Home</string>
+	<key>Icon from iconfinder.com
+© 2019 Kiran Patil (@imkpatil)</key>
+	<string>Biểu tượng từ iconfinder.com 
+© 2019 Kiran Patil (@imkpatil)</string>
+	<key>If the Transparent dock option is enabled, the dock color will be ignored. Respring required for changes to take effect!</key>
+	<string>Nếu tùy chọn Dock trong suốt được bật, màu dock sẽ bị bỏ qua. Yêu cầu phải thay đổi để có hiệu lực!</string>
+	<key>Left-&gt;Right Swipe</key>
+	<string>Trái-&gt; Vuốt phải</string>
+	<key>Lock Device</key>
+	<string>Thiết bị khóa</string>
+	<key>Make Dock Transparent</key>
+	<string>Làm Dock trong suốt</string>
+	<key>Max Dock Icons</key>
+	<string>Biểu tượng Dock tối đa</string>
+	<key>Multi-Tasking Options</key>
+	<string>Tùy chọn đa tác vụ</string>
+	<key>Notification Center</key>
+	<string>Trung tâm Thông báo</string>
+	<key>Reachability</key>
+	<string>Khả năng tiếp cận</string>
+	<key>Recent Apps</key>
+	<string>Ứng dụng gần đây</string>
+	<key>Recent Apps Blacklist...</key>
+	<string>Danh sách đen ứng dụng gần đây ...</string>
+	<key>Respring required after changing app preferences for Multi-Tasking!</key>
+	<string>Yêu cầu sinh con sau khi thay đổi tùy chọn ứng dụng cho Đa tác vụ!</string>
+	<key>Respring required only when you turn splitview on/off!</key>
+	<string>Chỉ cần bật lại khi bạn bật / tắt splitview!</string>
+	<key>Right-&gt;Left Swipe</key>
+	<string>Phải-&gt; Vuốt trái</string>
+	<key>Rotate Apps Upside Down</key>
+	<string>Xoay ứng dụng lộn ngược</string>
+	<key>Show Suggested/Recent Apps</key>
+	<string>Hiển thị các ứng dụng được đề xuất / gần đây</string>
+	<key>SplitView/Slideover</key>
+	<string>Chia xem / Trượt qua</string>
+	<key>Suggested Apps (Handoff etc.)</key>
+	<string>Ứng dụng được đề xuất (Handoff, v.v.)</string>
+	<key>Suggested and Recent Apps</key>
+	<string>Ứng dụng được đề xuất và gần đây</string>
+	<key>Support</key>
+	<string>Hỗ trợ</string>
+	<key>Swipe Down</key>
+	<string>Vuốt xuống</string>
+	<key>Swipe Up</key>
+	<string>Vuốt xuống</string>
+	<key>This setting will change the size of the homescreen compared to the dock. Decreasing will reduce the spacing between icons and vice versa!</key>
+	<string>Cài đặt này sẽ thay đổi kích thước của màn hình chính so với dock. Giảm sẽ giảm khoảng cách giữa các biểu tượng và ngược lại!</string>
+	<key>Use Custom Color</key>
+	<string>Sử dụng màu tùy chỉnh</string>
+	<key>Use the slider to adjust gesture sensitivity. Respring required only when you turn the dockgestures on/off!</key>
+	<string>Sử dụng thanh trượt để điều chỉnh độ nhạy của cử chỉ. Chỉ cần bật lại khi bạn bật / tắt dockestures!</string>
+	<key>Use the slider to adjust the area from the left/right edges to bring up FloatingDock in apps when using the bottom edge gesture!</key>
+	<string>Sử dụng thanh trượt để điều chỉnh khu vực từ các cạnh trái / phải để hiển thị FloatingDock trong các ứng dụng khi sử dụng cử chỉ cạnh dưới!</string>
+	<key>Use the slider to specify the max number of recent/suggested apps you wish to see in the dock.</key>
+	<string>Sử dụng thanh trượt để chỉ định số lượng tối đa các ứng dụng được đề xuất / gần đây bạn muốn thấy trong thanh công cụ.</string>
+	<key>Wish to donate? Donation link found on my twitter bio. Please click the above link to visit my twitter profile!</key>
+	<string> Muốn tặng? Liên kết quyên góp được tìm thấy trên twitter sinh học của tôi. Vui lòng nhấp vào liên kết trên để truy cập hồ sơ twitter của tôi!</string>
+	<key>© 2019 P2kDev (@p2kdev)</key>
+	<string>© 2019 P2kDev (@p2kdev)
+---------
+Dịch bởi Kim Trọng ❤️</string>
+</dict>
+</plist>
