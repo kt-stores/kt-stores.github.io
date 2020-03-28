@@ -16,9 +16,45 @@ MD5sum: d28397db60fc9f982a4e59da18023781
 SHA1: 5df1a543adcba5ea7992c52b780f1cc27e3f4c3a
 SHA256: bee9abbd5797175f5eac53dac14983dac687bc1762b2b4898d8c5a513051e4ed
 
-Package: com.kt-storage.a-font
+Package: com.kt-storage.adblockforyoutube
+Name: AdBlock for YouTube
+Version: 1.0.7
+Author: Majd Alfhaily
+Depends: firmware (>= 8.0), com.kt-storage.icon
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Installed-Size: 234
+Depiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/adblockforyoutube(1.0.7).deb
+Size: 46724
+MD5sum: 113726e774846a60c8b217876f8fc9e8
+SHA1: 7e9fc0a1aab7dc6e0fac7149b09fecba0766796f
+SHA256: 54ca2d19da1e955a93a9a73d5f80ddb2bf7812eaac09bbc14ba620f2e052a2e0
+
+Package: com.kt-storage.adblockplus
+Name: AdBlock ++
+Version: 1.2-1
+Author: kim Trong
+Installed-Size: 258
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Depiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/adblockplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/adblockplus(1.2-1).deb
+Size: 13844
+MD5sum: 97c7bd95dc6f9a4be915c667d7a22efd
+SHA1: fc9b22d0d1c7e638653a6dc95fb420aa73249a2c
+SHA256: f4f771449c5a8fa25ac6d10c36203b50d0b8cc74529e9a4c39fbd560ba7712fa
+
 Name: A-Font
 Version: 1.5.1
+Package: com.kt-storage.a-font
 Author: Baw Appie <pp121324@gmail.com>
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.kt-storage.icon
 Installed-Size: 2342
@@ -33,6 +69,24 @@ Size: 834398
 MD5sum: 5eb7006f454aa61744c724e5b890de52
 SHA1: fc2e04d8fc00ad30919a9e48de68325af05c3c5c
 SHA256: 3a4222d659cbbf756d58c3cbaeaf17aadc1276ebb86379e31215435fba591c96
+
+Name: AdGuard Pro Hack
+Version: 0.0.1-2
+Package: com.kt-storage.adgpro
+Author: md.furman
+Depends: mobilesubstrate, com.kt-storage.icon
+Installed-Size: 114
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Depiction: https://kt-stores.github.io/debs/AdGuard/?p=info
+SileoDepiction: https://kt-stores.github.io/debs/AdGuard/?p=info
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/AdGuard(0.0.1-2).deb
+Size: 5244
+MD5sum: e3b3b04c883260668a24b8926ffadf1a
+SHA1: 6b0af37a1b4077bc781c6612eb5b0c793eaa599e
+SHA256: 306f909c1a8e3d8ff4e8c80fd746f4940535191d4f9efaced7a1968dda418f51
 
 Name: Appaze 2
 Package: com.kt-storage.appaze2
