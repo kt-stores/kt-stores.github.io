@@ -1,11 +1,11 @@
 {
   "name": "",
-  "package": "com.kt-storage. appaze2appaze2",
+  "package": "applist",
   "author": "",
   "version": "",
   "dependency": "N/A",
   "minOSVersion": "10.0",
-  "maxOSVersion": "14.0",
+  "maxOSVersion": "15.0",
   "otheriOS": "untested",
   "description": "",
   "changelog": {

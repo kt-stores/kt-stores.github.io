@@ -1,11 +1,11 @@
 {
   "name": "",
-  "package": "com.kt-storage.adblockforyoutube",
+  "package": "com.kt-storage.appcheats",
   "author": "",
   "version": "",
   "dependency": "N/A",
   "minOSVersion": "10.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "14.0",
   "otheriOS": "untested",
   "description": "",
   "changelog": {
