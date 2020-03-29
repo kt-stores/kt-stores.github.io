@@ -476,3 +476,71 @@ MD5sum: fe23ec41fe1f9dfaea17d2c2a0f0bf4b
 SHA1: fbb913369bf86fa6b63cd2e83b8b01ba7478bd35
 SHA256: ea7582d3f7c7c94b5c6b0590451312c1fc9a1fb1df9135b83b986068ba18da9f
 
+Name: libCSColorPicker
+Version: 1.0
+Package: com.creaturesurvive.libcscolorpicker
+Depends: firmware (>= 7.0), applist
+Architecture: iphoneos-arm
+Installed-Size: 502
+Maintainer: KT Storage
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Description: gói thư viện màu cho nhà phát triển.
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/libcscolorpicker(1.0).deb
+Size: 147586
+MD5sum: ef4c075573db4e9ab92b950e6c5be187
+SHA1: af3090dc3942b124fe728a5dcf747d49a73a98ce
+SHA256: 5207e6452d248707dea5bf285c7c472f536700c889e2ca5e207f078175e30871
+
+Name: libCSColorPicker
+Version: 1.0.3
+Package: com.creaturesurvive.libcscolorpicker
+Section: System
+Maintainer: KT Storage
+Pre-Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Installed-Size: 460
+Author: CreatureSurvive <support@creaturecoding.com>
+Description: gói thư viện màu cho nhà phát triển.
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/libcscolorpicker(1.0.3).deb
+Size: 148290
+MD5sum: 7d70e3ea5d1098bac33475a8a5786cca
+SHA1: e6c64f0bd6b3d0e7890714335db9a21017ff9f4b
+SHA256: 727313e7b6e5543614c72e0e7d412dbc9bf2a46523c66ba3722861caee26575a
+
+Name: libCSPreferences
+Version: 1.1.6
+Package: com.creaturecoding.libcspreferences
+Depends: com.ex.libsubstitute | mobilesubstrate, firmware (>= 8.0), preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 471
+Maintainer: KT Storage
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Description: gói phụ trợ cần thiết cho một số tinh chỉnh.
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/libcspreferences(1.1.6).deb
+Size: 1280046
+MD5sum: 35b58f59e42a1188af6f06142272d6a2
+SHA1: fb8cb919272f19bafbb7609a607a434225559dd3
+SHA256: e91d759c18025430538283a1f5d804d73932b7113447c8d0efb6af3a8d295fae
+
+Name: libCSPreferences
+Version: 1.2.9
+Package: com.creaturecoding.libcspreferences
+Section: System
+Maintainer: KT Storage
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 494
+Author: CreatureSurvive <support@creaturecoding.com>
+Description: gói phụ trợ cần thiết cho một số tinh chỉnh.
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Filename: ./debs/libcspreferences(1.2.9).deb
+Size: 1405026
+MD5sum: dc9cc86e41da6c9ad40df6eb72b49fab
+SHA1: 90a5b82a4e112c90b365ff6db17f22a2cba4fb99
+SHA256: f0545844d74dd60804f34b0de21035bcce7692d1d7b287ade9d625e5423bc6a9
+
