@@ -5,7 +5,7 @@
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
-            <maxiOS>20.0</maxiOS>
+            <maxiOS>13.4</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
@@ -13,8 +13,8 @@
     <descriptionlist>
         <description>+ Mô tả & giới thiệu</description>
         <longdescription><![CDATA[
-            · Gói icon repo<br/>
-            · Sử dụng xoá tweak trong nguồn khi cần.<br/>
+            · Gói icon repo <br>
+            · Sử dụng xoá tweak trong nguồn khi cần. <br>
           
         ]]></longdescription>
     </descriptionlist>
