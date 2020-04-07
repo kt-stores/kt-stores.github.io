@@ -18,7 +18,11 @@
           
         ]]></longdescription>
     </descriptionlist>
-    
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
     <changelog>
         <change>Initial release</change>
     </changelog>
