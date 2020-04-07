@@ -1,7 +1,7 @@
 <package>
     <id>com.kt-storage.icon</id>
-    <name>Soba</name>
-    <version>1.0</version>
+    <name>KT Stores (icon_repo)</name>
+    <version>1.0.3</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -9,7 +9,7 @@
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies>Alkaline</dependencies>
+    <dependencies>Admin</dependencies>
     <descriptionlist>
         <description>Tinh chỉnh Quản trị của nguồn</description>
         <longdescription><![CDATA[
