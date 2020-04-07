@@ -1,18 +1,18 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Tìm kiếm tôi trên Twitter</name>
-			<url>https://twitter.com/kimtrong</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Theo dõi tôi trên Facebook</name>
+			<url>https://www.facebook.com/kt.contact.ads</url>
+			<iconclass>fa fa-facebook</iconclass>
 		</link>
 		<link>
-			<name>Send me an email</name>
+			<name>Phản hổi cho tôi qua email</name>
 			<url>mailto:kt.contact.ads@gmail.com</url>
 			<iconclass>fa fa-envelope-open</iconclass>
 		</link>
 		<link>
 	    <name>Ủng hộ tôi qua Paypal</name>
-	    <url>https://www.paypal.me/kimtrong</url>
+	    <url>####</url>
 			<iconclass>fa fa-paypal</iconclass>
 	  </link>
 	</footerlinks>
