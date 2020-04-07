@@ -11,18 +11,16 @@
     </compatibility>
     <dependencies>Alkaline</dependencies>
     <descriptionlist>
-        <description>Battery + Cellular status icons for Alkaline</description>
+        <description>Giới thiệu</description>
         <longdescription><![CDATA[
-            · (Alkaline is not compatible with iPhone X)<br/>
-            · 4 battery themes for Alkaline<br/>
-            · Cellular + wifi icons are themable through Anemone<br/>
-            · I recommend hiding carrier text<br/>
-            · Leave a tip if you'd like: <a href="paypal.me/tyios">paypal.me/tyios</a> :)<br/>
+            · Giói icon cho repo<br/>
+            · Xoá nhanh tweak trong nguồn<br/>
+          
         ]]></longdescription>
     </descriptionlist>
     <screenshots>
         <screenshot>
-            <image>soba-sample.png</image>
+            <image></image>
         </screenshot>
     </screenshots>
     <changelog>
