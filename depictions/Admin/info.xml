@@ -5,19 +5,18 @@
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
-            <maxiOS>13.0</maxiOS>
+            <maxiOS>30.0</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies>Alkaline</dependencies>
+    <dependencies>KT Storage</dependencies>
     <descriptionlist>
-        <description>Battery + Cellular status icons for Alkaline</description>
+        <description>• Admin & Quản trị.</description>
         <longdescription><![CDATA[
-            · (Alkaline is not compatible with iPhone X)<br/>
-            · 4 battery themes for Alkaline<br/>
-            · Cellular + wifi icons are themable through Anemone<br/>
-            · I recommend hiding carrier text<br/>
-            · Leave a tip if you'd like: <a href="paypal.me/tyios">paypal.me/tyios</a> :)<br/>
+            · Gói icon của nguồn<br/>
+            · Hỗ trợ xoá & dọn dẹp tweak đã cài trong nguồn nhanh chónh<br/>
+            · Làm đẹp icon nguồn.<br/>
+            
         ]]></longdescription>
     </descriptionlist>
     <screenshots>
