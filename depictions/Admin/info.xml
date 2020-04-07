@@ -1,0 +1,30 @@
+<package>
+    <id>com.kt-storage.icon</id>
+    <name>Soba</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>10.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>Alkaline</dependencies>
+    <descriptionlist>
+        <description>Tinh chỉnh Quản trị của nguồn</description>
+        <longdescription><![CDATA[
+            · Gói phụ trợ theo nguồn!<br/>
+            · Có thể dùng gói để xoá nhanh Tweak có trong nguồn<br/>
+           
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>soba-sample.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
