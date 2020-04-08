@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.appsyncunified </id>
+    <name>AppSync Unified </name>
+    <version>70.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>Admin</dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Cài iPA không thông qua chứng chỉ<br/>
+            · Chỉ sử dụng khi đã jailbreaks <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
