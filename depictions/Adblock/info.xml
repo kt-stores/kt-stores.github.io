@@ -1,7 +1,7 @@
 <package>
-    <id> com.kt-storage.appstoreplusplus </id>
-    <name> AppStore++ </name>
-    <version>0.9.8</version>
+    <id> com.kt-storage.adblockplus </id>
+    <name> AdBlock ++ </name>
+    <version>1.2-1</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -13,8 +13,8 @@
     <descriptionlist>
         <description>Giới thiệu</description>
         <longdescription><![CDATA[
-            · Hỗ trợ hạ & nâng cấp ứng dụng trong Appstore <br/>
-            
+            · Chặn quảng cáo cho App++<br/>
+             <br/>
           
         ]]></longdescription>
     </descriptionlist>
