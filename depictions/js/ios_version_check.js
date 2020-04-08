@@ -46,9 +46,9 @@ Twitter - @TimonOlsthoorn
 
 
 // changed const to var for IE9/10 compatibity.
-var VERSION_CHECK_SUPPORTED = "Phiên bản <strong> iOS %s </strong> được hỗ trợ &#128525;";
+var VERSION_CHECK_SUPPORTED = "Phiên bản hiện tại <strong> iOS %s </strong> được hỗ trợ &#128525;";
 var VERSION_CHECK_NEEDS_UPGRADE = "Chỉ dành cho phiên bản <strong> iOS %s </strong> &#128531;";
-var VERSION_CHECK_UNCONFIRMED = "Chưa hỗ trợ phiên bản <strong> iOS %s </strong> &#128531;";
+var VERSION_CHECK_UNCONFIRMED = "Phiên bản hiện tại <strong> iOS %s </strong> chưa hỗ trợ &#128531;";
 var VERSION_CHECK_UNSUPPORTED = "Chỉ hỗ trợ phiên bản <strong> iOS %s </strong> đến <strong> %s </strong> &#128531;";
 
 function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {

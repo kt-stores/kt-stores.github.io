@@ -11,7 +11,7 @@
 }
 
 a {
-	color: #111;
+	color: #fff;
 }
 
 .purp {
@@ -23,7 +23,7 @@ a {
 }
 
 .light {
-	color: #696969 !important;
+	color: #fff !important;
 }
 
 .jumbotron {
@@ -35,7 +35,7 @@ a {
 }
 
 .link-item:hover {
-    border: 1px solid #ddd;
+    border: 1px solid #fff;
     background-color: #111;
 }
 
@@ -74,7 +74,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .subtitle {
 	font-size: 16px !important;
-	color: #696969;
+	color: #fff;
 }
 
 .jumbotron {
