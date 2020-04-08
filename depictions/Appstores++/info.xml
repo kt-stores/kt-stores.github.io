@@ -1,6 +1,6 @@
 <package>
     <id> com.kt-storage.appstoreplusplus </id>
-    <name>AppStore++</name>
+    <name> AppStore++ </name>
     <version>0.9.8</version>
     <compatibility>
         <firmware>
@@ -13,7 +13,7 @@
     <descriptionlist>
         <description>Giới thiệu</description>
         <longdescription><![CDATA[
-            · Hỗ trợ hạ & nâng cấp ứng dụng trong Appstore<br/>
+            · Hỗ trợ hạ & nâng cấp ứng dụng trong Appstore <br/>
             
           
         ]]></longdescription>
