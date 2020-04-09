@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.appcheats </id>
+    <name> AppCheats </name>
+    <version>2.5</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>14.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Tinh chỉnh nâng cao cho App<br/>
+            · Bổ xung thêm tính năng app<br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

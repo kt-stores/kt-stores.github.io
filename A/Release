@@ -1,0 +1,8 @@
+Origin: KT Stores
+Label: KT Stores
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho lưu trữ cài đặt cho Cydia & Sileo.

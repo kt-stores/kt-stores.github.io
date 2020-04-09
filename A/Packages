@@ -1,0 +1,18 @@
+Name: KT (icon_repo)
+Version: 1.0
+Package: com.kt-storage.icon
+Section: Admin
+Essential: yes
+Maintainer: Kim trong
+Installed-Size: 230
+Description: Gói icon của repo (cydia & Sileo)
+Architecture: iphoneos-arm
+Author: Kim Trọng
+Filename: ./debs/Admin(1.0).deb
+Size: 9080
+Depiction: https://kt-stores.github.io/KT-info/?p=Admin
+Sileodepiction: https://kt-stores.github.io/KT-info/?p=Admin
+Icon: file:///Applications/Cydia.app/Sections/KT-icon.png
+MD5sum: ec18f2041cc58e1575a7d4ed0b576624
+SHA1: 225cb28d29b253bb3ddad1143712ebe93a4a034e
+SHA256: f1d320daa85cbff598db2d0c440d3ade3b3ab0f3146cd0a96ee1961f4702f438
