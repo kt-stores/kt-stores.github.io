@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.libactivator </id>
+    <name>Activator</name>
+    <version> 1.9.13~beta6 </version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>14.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Cử chỉ tập trung. <br/>
+            · quản lý nút và phím tắt cho iOS <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
