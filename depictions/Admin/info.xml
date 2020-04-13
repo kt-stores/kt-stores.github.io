@@ -1,7 +1,7 @@
 <package>
     <id>com.kt-storage.icon</id>
     <name>KT Storage (icon_repo)</name>
-    <version>1.0.3</version>
+    <version>1.0</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
