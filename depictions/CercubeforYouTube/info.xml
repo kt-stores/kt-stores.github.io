@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.cercube </id>
+    <name> Cercube for YouTube </name>
+    <version>5.1.10k</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Hỗ trợ nâng cao cho Youtube<br/>
+            · Loại bỏ quảng cáo & phát dưới nền,... <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.bazzi2 </id>
+    <name>Bazzi 2</name>
+    <version>2.0.8</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>14.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Biểu tượng %pin cho X<br/>
+            · Thêm %pin vào icon pin trên X và cả giả lập X <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

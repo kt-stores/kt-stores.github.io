@@ -1,0 +1,26 @@
+<package>
+    <id>applist</id>
+    <name>Applist</name>
+    <version>1.5.15~beta1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Gói phụ trợ tweak<br/>
+            · Hiển thị gói đã cài trong cài đặt <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

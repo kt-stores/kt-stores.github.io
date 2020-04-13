@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.jellyfish </id>
+    <name> Jellyfish </name>
+    <version>1.3.3</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Thiết kế lại màn hình khoá<br/>
+            · Tinh chỉnh bố cục MHK <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

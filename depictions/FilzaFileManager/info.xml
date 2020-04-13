@@ -1,0 +1,26 @@
+<package>
+    <id> com.kt-storage.filza64bit </id>
+    <name> Filza File Manager </name>
+    <version>3.7.4-12</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>20.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Giới thiệu</description>
+        <longdescription><![CDATA[
+            · Quản lý tệp tin<br/>
+            · Truy cập file hệ thống. <br/>
+          
+        ]]></longdescription>
+    </descriptionlist>
+    
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
