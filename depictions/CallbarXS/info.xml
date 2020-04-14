@@ -1,5 +1,5 @@
 <package>
-    <id> com.kt-storage.callbarxs </id>
+    <id>com.kt-storage.callbarxs</id>
     <name> CallBar XS (iOS 12 & 13) </name>
     <version> 2.3-75 </version>
     <compatibility>
@@ -14,7 +14,7 @@
         <description>Giới thiệu</description>
         <longdescription><![CDATA[
             · Giao diện cuộc gọi mới<br/>
-            · Thêm hỗ trợ cho iOS 13 <br/>
+            · Thêm hỗ trợ iOS 13 <br/>
           
         ]]></longdescription>
     </descriptionlist>
