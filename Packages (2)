@@ -12,6 +12,7 @@ Description: gói icon của repo.
 Depiction: https://kt-stores.github.io/depictions/?p=Admin
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Admin
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Admin(1.0.4).deb
 Size: 9058
 MD5sum: f3a3ace3e8b58b115b98af48d19e42d2
