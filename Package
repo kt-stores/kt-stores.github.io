@@ -35,6 +35,7 @@ Installed-Size: 4247
 Depiction: https://kt-stores.github.io/depictions/?p=Activator
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Activator
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Activator(1.9.13~beta6).deb
 Size: 1212168
 MD5sum: f94b509571ffab6f6629548736adf95f
@@ -54,6 +55,7 @@ Description: Tinh chỉnh nâng cao cho một số ứng dụng.
 Depiction: https://kt-stores.github.io/depictions/?p=Appcheat
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Appcheat
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Appcheats(2.5).deb
 Size: 70264
 MD5sum: 8170fee852b9776f24b74c572303bbca
@@ -74,6 +76,7 @@ Description: Hiển thị gói cài đặt trong setting.
 Depiction: https://kt-stores.github.io/depictions/?p=Applist
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Applist
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Applist(1.5.15~beta1).deb
 Size: 186332
 MD5sum: 9a3e86be1503efcb28bdb38092480f9b
@@ -97,6 +100,7 @@ Description: Hiển thị gói cài đặt trong setting.
 Depiction: https://kt-stores.github.io/debs/applist/?p=info
 SileoDepiction: https://kt-stores.github.io/debs/applist/?p=info
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Applist(1.5.14).deb
 Size: 146588
 MD5sum: 4213c1ef5863145e3c21e755ad8b5b40
@@ -118,6 +122,7 @@ Description: Hỗ trợ nâng & hạ cấp ứng dụng trong AppStore.
 Depiction: https://kt-stores.github.io/depictions/?p=Appstore
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Appstore
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Appstore++(0.9.8).deb
 Size: 1329050
 MD5sum: 91fd36c305ac1c3bca5c56cd2c80a2a9
@@ -140,6 +145,7 @@ Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Depiction: https://kt-stores.github.io/depictions/?p=Appsync
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Appsync
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Appsync(74.0).deb
 Size: 64108
 MD5sum: 96a1c73251a60c0be9de41ec6b6f6e6d
@@ -162,6 +168,7 @@ Description: Hỗ trợ cài iPA trực tiếp không cần chứng chỉ
 Depiction: https://kt-stores.github.io/depictions/?p=Appsync
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Appsync
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Appsync(70.0).deb
 Size: 53690
 MD5sum: 253c4d4ddad5a338bbaed31c6fef3c92
@@ -182,6 +189,7 @@ Description: Hỗ trợ chặn quảng cáo cho youtube.
 Depiction: https://kt-stores.github.io/depictions/?p=AdblockYTB
 SileoDepiction: https://kt-stores.github.io/depictions/?p=AdblockYTB
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Adblockforyoutube(1.0.7).deb
 Size: 46724
 MD5sum: 113726e774846a60c8b217876f8fc9e8
@@ -200,6 +208,7 @@ Description: hỗ trợ chặn quảng cáo cho App++
 Depiction: https://kt-stores.github.io/depictions/?p=Adblock
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Adblock
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Adblockplus(1.2-1).deb
 Size: 13844
 MD5sum: 97c7bd95dc6f9a4be915c667d7a22efd
@@ -219,6 +228,7 @@ Description: thay đổi fonts chữ tuỳ thích
 Depiction: https://kt-stores.github.io/depictions/?p=A-fonts
 SileoDepiction: https://kt-stores.github.io/depictions/?p=A-fonts
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/A-fonts(1.5.1).deb
 Size: 834398
 MD5sum: 5eb7006f454aa61744c724e5b890de52
@@ -238,6 +248,7 @@ Description: Hỗ trợ crack App Adguard.
 Depiction: https://kt-stores.github.io/depictions/?p=AdGuard
 SileoDepiction: https://kt-stores.github.io/depictions/?p=AdGuard
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/AdGuard(0.0.1-2).deb
 Size: 5244
 MD5sum: e3b3b04c883260668a24b8926ffadf1a
@@ -257,6 +268,7 @@ Description: Tinh chỉnh nâng cao cho từng ứng dụng đã tải về
 Depiction: https://kt-stores.github.io/depictions/?p=Appaze
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Appaze
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Appaze2(1.1k).deb
 Size: 842218
 MD5sum: 3742a61c5310a433c62b60a6b69fa13d
@@ -278,6 +290,7 @@ Description: Giao diện âm lượng mới cho ios 12 & 13.
 Depiction: https://kt-stores.github.io/depictions/?p=Bazi2
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Bazi2
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Bazzi2(2.0.8).deb
 Size: 86832
 MD5sum: 4a9fe25640b2c970df2df9a1a13aae13
@@ -299,6 +312,7 @@ Description: Giao diện cuộc gọi mới cho ios 12 & 13.
 Depiction: https://kt-stores.github.io/depictions/?p=CallbarXS
 SileoDepiction: https://kt-stores.github.io/depictions/?p=CallbarXS
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Callbarxs(2.3-75).deb
 Size: 410098
 MD5sum: 43a4dfcbc9fa3272d6765220fee79c4e
@@ -318,6 +332,7 @@ Description: tinh chỉnh nâng cao cho controlcenter (CC).
 Depiction: https://kt-stores.github.io/depictions/?p=CCModulesPro
 SileoDepiction: https://kt-stores.github.io/depictions/?p= CCModulesPro
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Ccmodulespro(1.1.1k).deb
 Size: 337066
 MD5sum: e6bef5cdd5964ec82fe3b15ded4b8f00
@@ -339,6 +354,7 @@ Description: tinh chỉnh nâng cao cho Ứng dụng Youtube.
 Depiction: https://kt-stores.github.io/depictions/?p=CercubeforYouTube
 SileoDepiction: https://kt-stores.github.io/depictions/?p= CercubeforYouTube
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Cercube(5.1.10k).deb
 Size: 11607372
 MD5sum: b7198a21dc6391719b5804848f933500
@@ -359,6 +375,7 @@ Size: 1002192
 Depiction: https://kt-stores.github.io/depictions/?p=CacheClearerX
 SileoDepiction: https://kt-stores.github.io/depictions/?p=CacheClearerX
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/CacheClearerX(1.1).deb
 Size: 1002356
 MD5sum: 42e09b607e0b223629527ed8579c3dee
@@ -378,6 +395,7 @@ Installer-Size: 8608
 Depiction: https://kt-stores.github.io/depictions/?p=CyDown
 SileoDepiction: https://kt-stores.github.io/depictions/?p=CyDown
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Cydown(7.0.7).deb
 Size: 3398180
 MD5sum: 6dd85227e8919b8b7818b0b3c3c4adb5
@@ -397,6 +415,7 @@ Description: tinh chỉnh nâng cao cho Cydia.
 Depiction: https://kt-stores.github.io/depictions/?p=CyDown
 SileoDepiction: https://kt-stores.github.io/depictions/?p=CyDown
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Cydown(7.0.6).deb
 Size: 4061468
 MD5sum: 8cdc1a7a6374d7cf853ef16a7c03e673
@@ -416,6 +435,7 @@ Description: Hiển thị lưu lượng data truy cập.
 Depiction: https://kt-stores.github.io/depictions/?p=DataMeter
 SileoDepiction: https://kt-stores.github.io/depictions/?p=DataMeter
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Datameter(1.4-3.1).deb
 Size: 340272
 MD5sum: 746facf5fe138b459acbc145c937211d
@@ -436,6 +456,7 @@ Description: Tuỳ chỉnh thanh dock nâng cao.
 Depiction: https://kt-stores.github.io/depictions/?p=FloatingDockPlus13
 SileoDepiction: https://kt-stores.github.io/depictions/?p=FloatingDockPlus13
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Floatingdockplus13(1.1.5).deb
 Size: 95190
 MD5sum: e90721fb18556ed5e68d85722e092b86
@@ -456,6 +477,7 @@ Description: Hiển thị tệp hệ thống & lưu trữ.
 Depiction: https://kt-stores.github.io/depictions/?p=FilzaFileManager
 SileoDepiction: https://kt-stores.github.io/depictions/?p= FilzaFileManager
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Filza(3.7.4-12).deb
 Size: 12202338
 MD5sum: 17b244c142663adcad0d011bbc03735c
@@ -477,6 +499,7 @@ Section: System
 Tag: purpose::extension, role::developer
 Installed-Size: 2380
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Flipswitch(1.0.16~beta6).deb
 Size: 469174
 MD5sum: 7ee5ecb5a78e10316738b0a3a4e6dcb9
@@ -496,6 +519,7 @@ Description: Kết nối wifi tốt hơn.
 Depiction: https://kt-stores.github.io/depictions/?p=GoodWiFi
 SileoDepiction: https://kt-stores.github.io/depictions/?p=GoodWiFi
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Goodwifi(0.0~beta5).deb
 Size: 128698
 MD5sum: f486366491dc5c545d62fd1060471c35
@@ -515,6 +539,7 @@ Description: Ẩn thông tin jailbreak, chặn phát hiện App khi thiết bị
 Depiction: https://kt-stores.github.io/depictions/?p=HideJB
 SileoDepiction: https://kt-stores.github.io/depictions/?p=HideJB
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Hidejb(2.1.1).deb
 Size: 425964
 MD5sum: a97f919de10924ed4b2c40b1fa32032e
@@ -536,6 +561,7 @@ Installer-Size: 24128
 Depiction: https://kt-stores.github.io/depictions/?p=iCleanerPro
 SileoDepiction: https://kt-stores.github.io/depictions/?p=iCleanerPro
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/ICleanerPro(7.8.2).deb
 Size: 9659492
 MD5sum: afa1b09b35c5a551b292615e52d19e79
@@ -557,6 +583,7 @@ Description: Dọn dẹp tệp tin rác thiết bị đã jailbreak.
 Depiction: https://kt-stores.github.io/depictions/?p=iCleanerPro
 SileoDepiction: https://kt-stores.github.io/depictions/?p=iCleanerPro
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Icleanerpro(7.8.0k).deb
 Size: 3728490
 MD5sum: 58ab72aea81c19215bf7bd0ac26abc43
@@ -577,6 +604,7 @@ Description: Dọn dẹp tệp tin rác thiết bị đã jailbreak.
 Depiction: https://kt-stores.github.io/depictions/?p=Jellyfish
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Jellyfish
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Jellyfish(1.3.3).deb
 Size: 193780
 MD5sum: cd3bd4da1b6ccf349571d86b3fe56239
@@ -597,6 +625,7 @@ Description: Dọn dẹp tệp tin rác thiết bị đã jailbreak.
 Depiction: https://kt-stores.github.io/depictions/?p=Kalm
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Kalm
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Kalm(1.2.2).deb
 Size: 203430
 MD5sum: fe23ec41fe1f9dfaea17d2c2a0f0bf4b
@@ -614,6 +643,7 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Section: System
 Description: gói thư viện màu cho nhà phát triển.
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Libcscolorpicker(1.0).deb
 Size: 147586
 MD5sum: ef4c075573db4e9ab92b950e6c5be187
@@ -631,6 +661,7 @@ Installed-Size: 460
 Author: CreatureSurvive <support@creaturecoding.com>
 Description: gói thư viện màu cho nhà phát triển.
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Libcscolorpicker(1.0.3).deb
 Size: 148290
 MD5sum: 7d70e3ea5d1098bac33475a8a5786cca
@@ -648,6 +679,7 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Section: System
 Description: gói phụ trợ cần thiết cho một số tinh chỉnh.
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Libcspreferences(1.1.6).deb
 Size: 1280046
 MD5sum: 35b58f59e42a1188af6f06142272d6a2
@@ -665,6 +697,7 @@ Installed-Size: 494
 Author: CreatureSurvive <support@creaturecoding.com>
 Description: gói phụ trợ cần thiết cho một số tinh chỉnh.
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Libcspreferences(1.2.9).deb
 Size: 1405026
 MD5sum: dc9cc86e41da6c9ad40df6eb72b49fab
@@ -685,6 +718,7 @@ Description: Chặn phát hiện jailbreak cho thiết bị iOS đã bẻ khoá.
 Depiction: https://kt-stores.github.io/depictions/?p=LibertyLite
 SileoDepiction: https://kt-stores.github.io/depictions/?p=LibertyLite
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Libertylite(0.2.12).deb
 Size: 82238
 MD5sum: 6bddade8a643e04a1d396911ff4af053
@@ -707,6 +741,7 @@ Installed-Size: 252
 Depiction: https://kt-stores.github.io/depictions/?p=Little11
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Little11
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Little11(1.3.0).deb
 Size: 34674
 MD5sum: ea8ac64f64eb6b435d79b6190076b97c
@@ -729,6 +764,7 @@ Description: Giao diện & cử chỉ X cho thiết bị không phải X
 Depiction: https://kt-stores.github.io/depictions/?p=Little11
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Little11
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Little11(1.0.0).deb
 Size: 18198
 MD5sum: 2feb2e58c16eedb7ff7e27482fae0d39
@@ -751,6 +787,7 @@ Description: Giao diện & cử chỉ X cho thiết bị không phải X
 Depiction: https://kt-stores.github.io/depictions/?p=Little11
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Little11
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Little11(1.0.1).deb
 Size: 18314
 MD5sum: ca0a9ac16f384046165536527c9ae81e
@@ -770,6 +807,7 @@ Description: Giao diện & cử chỉ X cho thiết bị không phải X
 Depiction: https://kt-stores.github.io/depictions/?p=Little11
 SileoDepiction: https://kt-stores.github.io/depictions/?p=Little11
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/Little11(1.2.1).deb
 Size: 25620
 MD5sum: 6f84f8cd0ed364e23396f29baf364d44
@@ -787,6 +825,7 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Section: System
 Installed-Size: 596
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/RocketBootstrap(1.0.8~beta1).deb
 Size: 66830
 MD5sum: 4c28e98cc25a8b5e5bf11a9adf023e23
@@ -809,6 +848,7 @@ Installer-Size: 17238
 Depiction: https://kt-stores.github.io/depictions/?p=ReproVision
 SileoDepiction: https://kt-stores.github.io/depictions/?p=ReproVision
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
 Filename: ./debs/ReproVision(0.5.2~EOL).deb
 Size: 14342868
 MD5sum: bfa450136a10e5e3cb1398ae6a3a1b16
