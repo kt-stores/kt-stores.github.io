@@ -1,11 +1,11 @@
 <package>
-    <id>com.kt-storage.icon</id>
-    <name>KT Storage (icon_repo)</name>
-    <version>1.0</version>
+    <id> com.kt-storage.boxy4 </id>
+    <name>Boxy 4 (iOS 13)</name>
+    <version>4.1.1</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
-            <maxiOS>30.0</maxiOS>
+            <maxiOS>14.0</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
@@ -13,8 +13,8 @@
     <descriptionlist>
         <description>Giới thiệu</description>
         <longdescription><![CDATA[
-            · Giói icon cho repo<br/>
-
+            · Xắp xếp bố cục icon<br/>
+            · Tuỳ chỉnh bố cục icon theo ý muốn. <br/>
           
         ]]></longdescription>
     </descriptionlist>

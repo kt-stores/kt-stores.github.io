@@ -1,11 +1,11 @@
 <package>
-    <id>com.kt-storage.callbarxs</id>
-    <name> CallBar XS (iOS 12 & 13) </name>
-    <version> 2.3-75 </version>
+    <id> com.kt-storage.youtubetools </id>
+    <name>YouTube Tools</name>
+    <version>4.0</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
-            <maxiOS>14.0</maxiOS>
+            <maxiOS>20.0</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
         </firmware>
     </compatibility>
@@ -13,8 +13,8 @@
     <descriptionlist>
         <description>Giới thiệu</description>
         <longdescription><![CDATA[
-            · Giao diện cuộc gọi mới<br/>
-            · Thêm hỗ trợ iOS 13 <br/>
+            · Tinh chỉnh nâng cao Youtube<br/>
+            · Chặn quảng cáo & chạy dưới nền,... <br/>
           
         ]]></longdescription>
     </descriptionlist>

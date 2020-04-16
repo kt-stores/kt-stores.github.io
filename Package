@@ -1,12 +1,12 @@
-Package: com.kt-storage.icon
+Name: KT Stores (icon_repo)
 Version: 1.0.4
 Priority: required
 Section: Admin
 Essential: yes
+Package: com.kt-storage.icon
 Maintainer: KT Storage
 Installed-Size: 420
 Architecture: iphoneos-arm
-Name: KT Stores (icon_repo)
 Author: Kim Trọng
 Description: gói icon của repo.
 Depiction: https://kt-stores.github.io/depictions/?p=Admin
@@ -275,6 +275,49 @@ MD5sum: 3742a61c5310a433c62b60a6b69fa13d
 SHA1: 1cd2cd1015cff06cd8c498cf6245b5c5381c870a
 SHA256: d3596e84e6fdbb7d745ba71699ac70f5f3a4f7d39f80f9b81b0e5b2ac8d8511a
 
+Name: Boxy 4 (iOS 13)
+Version: 4.1.1
+Section: Tweaks
+Maintainer: KT Storage
+Package: com.kt-storage.boxy4
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Architecture: iphoneos-arm
+Installed-Size: 3464
+Name: Boxy 4 (iOS 13)
+Author: William Vabrinskas
+Installer-Size: 3308
+Depiction: https://kt-stores.github.io/depictions/?p=Boxy4
+SileoDepiction: https://kt-stores.github.io/depictions/?p=Boxy4
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
+Filename: ./debs/Boxy4(4.1.1).deb
+Size: 2828162
+MD5sum: 99a7510182cfe7291e5486483a7b6992
+SHA1: 10de53cef3df5e33105dcd32a35c761135e55f57
+SHA256: a467326d589b1939248cbb3d30e1977b5fec14af603ac6d6babf8a89dcc9734e
+
+Name: BadgeBar
+Version: 1.1.7.1
+Section: Tweaks
+Package: com.kt-storage.badgebar
+Maintainer: KT Storage
+Description: Đổi kiểu hiển thị thông báo số trên màn hình chính!
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Installed-Size: 680
+Author: JannikCrack
+Depiction: https://kt-stores.github.io/depictions/?p=Badgebar
+SileoDepiction: https://kt-stores.github.io/depictions/?p=Badgebar
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
+Filename: ./debs/Badgebar(1.1.7.1).deb
+Size: 397032
+MD5sum: 1e6d239b72bced4dae6b410026f7bce7
+SHA1: af576ad5e89401941a58d241e4d2694b5db6b3c0
+SHA256: 14c1c487775796d61610ed45d68fe72f26811ea068bcee4f01293c4f17d9eec2
+
 Name: Bazzi 2
 Version: 2.0.8
 Package: com.kt-storage.bazzi2
@@ -309,8 +352,8 @@ Architecture: iphoneos-arm
 Installed-Size: 410
 Author: Elias Limneos
 Description: Giao diện cuộc gọi mới cho ios 12 & 13.
-Depiction: https://kt-stores.github.io/depictions/?p=CallbarXS
-SileoDepiction: https://kt-stores.github.io/depictions/?p=CallbarXS
+Depiction: https://kt-stores.github.io/depictions/?p=CallBarXS
+SileoDepiction: https://kt-stores.github.io/depictions/?p=CallBarXS
 Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
 Tag: purpose::extension
 Filename: ./debs/Callbarxs(2.3-75).deb
@@ -384,7 +427,7 @@ SHA256: 57a71aa97ce8770505e675fc000b316d345720a16f7b991a3f7e74e7400013cf
 
 Name: CyDown
 Version: 7.0.7
-Section: Tweaks
+Section: Ứng dụng
 Package: com.kt-storage.cydown
 Maintainer: KT Storage
 Description: Trình quản lý nâng cao hơn dành cho Cydia.
@@ -855,6 +898,26 @@ MD5sum: bfa450136a10e5e3cb1398ae6a3a1b16
 SHA1: 6f7feed68e35f7f9b9fff54148e561fcf2f3514a
 SHA256: 6d720f55411eb92d8ae6e4c68eb24c6129685dcde024345fad5c86ba766dbe6c
 
+Name: RealCC
+Version: 1.0.2
+Package: com.kt-storage.realcc
+Description: Tắt hoàn toàn wifi & bluetooth trong CC.
+Author: Jake James <jakeashacks@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Installed-Size: 99
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: KT Storage
+Depiction: https://kt-stores.github.io/depictions/?p=RealCC
+SileoDepiction: https://kt-stores.github.io/depictions/?p=RealCC
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
+Filename: ./debs/RealCC(1.0.2).deb
+Size: 6508
+MD5sum: 0d383dfbcbde5c80e3474d985173f7ae
+SHA1: cc8792706819b4b0c6e1aa9f96cb875e9e1c1fdd
+SHA256: cfd265f2b97995521a4b39ec5c73976554560d68887f4beb28c78012fc7c7ce3
+
 Name: Succession
 Package: com.kt-storage.successionrestore
 Priority: optional
@@ -875,3 +938,23 @@ Size: 1382124
 MD5sum: 38c5841bcc0d50b68aa6b98336953ada
 SHA1: 72d64dc20eb15c43bf2760c894ba9863fddff7ff
 SHA256: f3635600eb6c10a2e867a77a35c5c019d7082b996dc86a70935f93185305c962
+
+Name: YouTube Tools
+Version: 4.0
+Section: Tweaks
+Package: com.kt-storage.youtubetools
+Maintainer: KT Storage
+Description: Bổ sung thêm tính năng cho ứng dụng Youtube.
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: Justin Petkovic <justinpetkovic1994@outlook.com>
+Installer-Size: 358
+Depiction: https://kt-stores.github.io/depictions/?p=YouTubeTools
+SileoDepiction: https://kt-stores.github.io/depictions/?p=YouTubeTools
+Icon: file:///Applications/Cydia.app/Sections/kt-tinhchinh.png
+Tag: purpose::extension
+Filename: ./debs/YouTubeTools(4.0).deb
+Size: 32986
+MD5sum: 9d3e52efec04c63e679ffe899e3527e6
+SHA1: 12182e1941a65d120d4948d29429bc4bf1163fc7
+SHA256: f0a135083cfa1e5ebafdea6188d9f500b982cfba7183e0ce88e1e9c08460da5c
