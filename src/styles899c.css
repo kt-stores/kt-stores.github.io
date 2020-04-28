@@ -387,8 +387,8 @@ h2.new-product-title {
     text-align: center;
     vertical-align: middle;
     color: #fff;
-    font-size: 14px;
-    padding-top: 1%;
+    font-size: 12px;
+    padding-top: 2%;
  }
 }
 @media (prefers-color-scheme:light) {
