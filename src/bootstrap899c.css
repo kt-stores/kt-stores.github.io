@@ -330,15 +330,25 @@ html {
     font-size: 62.5%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+@media (prefers-color-scheme:dark) {
+body {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #fff;
+    background-color: #000;
+ }
+}
 
+@media (prefers-color-scheme:light) {
 body {
     font-family: "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
     background-color: #f5f5f5;
+ }
 }
-
 input,
 button,
 select,
@@ -626,11 +636,16 @@ a.text-info:hover {
 a.text-warning:hover {
     color: #66512c;
 }
-
+@media (prefers-color-scheme:dark) {
+.text-danger {
+    color: #00ff16;
+ }
+}
+@media (prefers-color-scheme:light) {
 .text-danger {
     color: #a94442;
+ }
 }
-
 a.text-danger:hover {
     color: #843534;
 }
@@ -877,8 +892,9 @@ pre {
 }
 
 .container {
-    padding-right: 4px;
-    padding-left: 5px;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-top: 22px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -6751,7 +6767,7 @@ button.close {
 
 .carousel-indicators {
     position: absolute;
-    bottom: 10px;
+    bottom: 0px;
     left: 50%;
     z-index: 15;
     width: 60%;
