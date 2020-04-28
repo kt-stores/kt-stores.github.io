@@ -2078,12 +2078,12 @@ a.carousel-control {
 		padding: 0.4em !important;
 	}
 	.time-big {
-		margin-left: 30px;
-		margin-top: -9%
+		margin-left: 8%;
+		margin-top: -5%
 	}
 	.title-big {
-		margin-left: -16%;
-		margin-top: -2%;
+		margin-left: -15%;
+		margin-top: 2%;
 	}
 	.kt-search-block-mobile {
 		display: flex;
@@ -2442,7 +2442,7 @@ body{
 	left: 5px;
 }
 #kt-account {
-	right: 15px;
+	right: 4%;
 }
 .btn-mobie {
 	color: #ffffff;
@@ -2476,14 +2476,14 @@ body{
 	text-decoration: none;
 }
 .sidebar-tab {
-	width: 343px;
-	height: 88%;
+	width: 85%;
+	height: 55%;
 	max-height: 100%;
 	position: fixed;
 	transition: all 0.6s;
-	top: 55px;
+	top: 10%;
 	border-radius: 20px;
-	left: -400px;
+	left: -100%;
 	z-index: 999;
 }
 .sidebar-tab ul {
@@ -2525,28 +2525,28 @@ body{
 @media (prefers-color-scheme:dark) {
 .sidebar-bg.bg1 .sidebar-wrapper {
     background: #000;
-    border: 1px solid #06fa00ad;
+    border: 3px solid #06fa00ad;
     box-shadow: 0 0px 20px rgba(11, 234, 67, 0.79);
  }
 }
 @media (prefers-color-scheme:light) {
 .sidebar-bg.bg1 .sidebar-wrapper {
     background: #f5f5f5;
-    border: 1px solid #fa0000ad;
+    border: 3px solid #fa0000ad;
     box-shadow: 0 0px 20px rgba(234, 11, 11, 0.79);
  }
 }
 @media (prefers-color-scheme:dark) {
 .sidebar-bg.bg1 .sidebar-tab {
     background: #000;
-    border: 1px solid #06fa00ad;
+    border: 3px solid #06fa00ad;
     box-shadow: 0 0px 20px rgba(11, 234, 67, 0.79);
  }
 }
 @media (prefers-color-scheme:light) {
 .sidebar-bg.bg1 .sidebar-tab {
     background: #f5f5f5;
-    border: 1px solid #fa0000ad;
+    border: 3px solid #fa0000ad;
     box-shadow: 0 0px 20px rgba(234, 11, 11, 0.79);
  }
 }
@@ -3519,12 +3519,14 @@ html.show-fadex{
 }
 
 .page-wrapper.toggled .sidebar-wrapper {
-	left: 16px;
+	left: 6%;
+	top: 10%;
 	z-index: 999999;
     overflow-y: scroll !important;
 }
 .page-wrapper.toggled .sidebar-tab {
-	left: 16px;
+	left: 8%;
+	top: 10%;
 	z-index: 999999;
     overflow-y: scroll !important;
 }
@@ -3743,7 +3745,7 @@ a.kt-cat-menu-item.hover {
 
 #show-sidebar{
 		top:13px;
-		left:16px;
+		left:4%;
 		margin:15px; 
 		font-size:27px;
 		/*z-index: 1;*/     
@@ -3751,8 +3753,8 @@ a.kt-cat-menu-item.hover {
   	 margin: -1em; 
 	}
 #show-tab{
-		top:13px;
-		left:333px;
+		top:5%;
+		left:91%;
 		margin:15px; 
 		font-size:27px;
 		/*z-index: 1;*/     
