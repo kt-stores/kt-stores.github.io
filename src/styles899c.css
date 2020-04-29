@@ -382,8 +382,8 @@ h2.new-product-title {
     width: 25%;
     height: 7%;
     bottom: 15%;
-    right: 8%;
-    border-radius: 7px;
+    right: 12%;
+    border-radius: 10px;
     text-align: center;
     vertical-align: middle;
     color: #fff;
@@ -501,11 +501,11 @@ ul.owl-carousel {
 	background-color: #272727;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	margin-left: 20px;
+	margin-left: 7%;
 	border: 0px solid #cacaca;
 	border-radius: 20px;
-	width: 90%;
-	box-shadow: 0 0px 15px rgba(255, 255, 255, 2);
+	width: 87%;
+	box-shadow: 0 0px 17px rgba(255, 255, 255);
    }	
 .product-row:hover {
 	border: 3px solid #0edf29;
@@ -555,10 +555,11 @@ ul.owl-carousel {
     height: 2%;
     font-size: 120%;
     margin: 5%;
+    margin-left: 6%;
 }
 .product-row-info {
     padding-bottom: 5%;
-    padding-left: 7%;
+    padding-left: 8%;
     font-size: 82%;
     padding-right: 0%;
 }

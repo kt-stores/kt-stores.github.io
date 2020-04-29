@@ -2628,7 +2628,7 @@ body{
 	color: #5cb85c;
 }
 .sidebar-tab .sidebar-header {
-	padding: 20px;
+	padding: 15px;
 	overflow: hidden;
 }
 .sidebar-tab .sidebar-header .user-pic {
@@ -2724,10 +2724,10 @@ body{
 @media (prefers-color-scheme:dark) {
 .sidebar-wrapper .sidebar-menu ul li.active > a {
     background: #17972e;
-    width: 245px;
+    width: 230px;
     border-radius: 8px;
     color: #fff;
-    right: -7px;
+    right: -12px;
  }
 }
 @media (prefers-color-scheme:light) {
@@ -3816,7 +3816,7 @@ a.kt-cat-menu-item.hover {
   padding: 6px 8px 6px 16px !important;
   text-decoration: none !important;
   font-size: 14px !important;
-  color: #818181 !important;
+  color: #c4c4c4 !important;
   display: block !important;
   border: none !important;
   background: none !important;
