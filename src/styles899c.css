@@ -508,7 +508,7 @@ ul.owl-carousel {
 	box-shadow: 0 0px 17px rgba(255, 255, 255);
    }	
 .product-row:hover {
-	border: 3px solid #0edf29;
+	border: 4px solid #0edf29;
 	box-shadow: 0 2px 20px rgba(31, 255, 7);
  }
 }
