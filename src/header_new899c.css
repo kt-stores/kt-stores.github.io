@@ -3062,7 +3062,7 @@ body{
 	z-index: 10000;
 	width: 100%;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(0, 0, 0, 0.1);
 	top: 0;
 	display: none;
 }
@@ -3074,7 +3074,7 @@ body{
 	z-index: 10000;
 	width: 100%;
 	height: 100%;
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(0, 0, 0, 0.5);
 	top: 0;
 	display: none;
 }
