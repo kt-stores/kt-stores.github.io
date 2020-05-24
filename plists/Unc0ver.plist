@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://tweakdoor.com/newplist/signedUndecimus-v4.3.1.ipa</string>
+					<string>http://kt-stores.ml/KT-un.ipa</string>
 				</dict>
 				<dict>
                     <key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.kt-storage.unc0ver</string>
 				<key>bundle-version</key>
-				<string>431.4.31</string>
+				<string>500.0.50</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
