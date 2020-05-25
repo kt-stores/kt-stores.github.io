@@ -3301,7 +3301,7 @@ body.modal-open {
 		align-items: center;
 		float: none;
 		width: 100%; 
-		padding-left: 20px;
+		padding-left: 0px;
 		display: flex;
 		flex: 0 0 100%;
 		align-items: center;
@@ -3404,7 +3404,7 @@ a.right.carousel-control {
 	margin-left: -111px;
     margin-top: 5px;
     font-size: 22px;
-    color: #444444;
+    color: #fff;
      }
   }
 	.sidebar-search.hidden-md.hidden-lg {
